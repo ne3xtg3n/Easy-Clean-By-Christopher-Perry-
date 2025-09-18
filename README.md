@@ -6,7 +6,8 @@
 
 ![1000023317](https://github.com/user-attachments/assets/cd0214e4-d280-4343-ba60-2c17c5e35b74)
 
-![Uploading 1000023324.png…]()
+![1000023324](https://github.com/user-attachments/assets/fb934ca7-7959-46f7-84ea-58edce04f42f)
+
 
 
 **Author:** Christopher Perry  
@@ -15,7 +16,8 @@
 **Status:** Patent Pending – Manufacturing & Developer Specification  
 **Brand:** EasyClean™  
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]() [![Version](https://img.shields.io/badge/Version-1.0-blue.svg)]()
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) [!
+[Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]() [![Version](https://img.shields.io/badge/Version-1.0-blue.svg)]()
 
 This repository provides a **comprehensive, self-contained specification** for the EasyClean™ v1.0, a whimsical humanoid olive-shaped brush cleaning system for artists, educators, and young creators. It equips engineering and manufacturing teams with all details needed to prototype, assemble, and produce the unit from concept to completion. Included are mechanical dimensions, internal architecture, materials, BOM, electronics, wiring, compliance, manufacturing sequences, and USPTO-compliant visuals.
 
