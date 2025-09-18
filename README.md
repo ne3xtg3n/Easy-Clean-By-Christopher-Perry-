@@ -7,7 +7,6 @@
 **Brand:** EasyClean™  
 
 ---
-
 ## 📘 Introduction
 
 EasyClean™ redefines brush maintenance as an engaging, efficient ritual for artists, educators, and young creators. Conventional cleaning methods lead to bristle damage, pigment waste, and frustration—EasyClean™ counters this with a whimsical humanoid olive form factor that integrates:
