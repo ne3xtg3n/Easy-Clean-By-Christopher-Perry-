@@ -1,5 +1,4 @@
 # 🌿 EasyClean™ v1.0 — Humanoid Olive Brush Cleaning System
-
 ![EasyClean Render](https://github.com/user-attachments/assets/429b4472-bbda-460f-9b65-2e3d6e49f1cc)
 
 (<img width="1024" height="1536" alt="1000023250" src="https://github.com/user-attachments/assets/2e341bb9-5054-4b7e-9866-89242003178a" />)
